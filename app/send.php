@@ -1,6 +1,3 @@
 <?php
+phpinfo();
 
-require 'vendor/autoload.php';
-
-
-dd('gi');
